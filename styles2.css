@@ -1,0 +1,111 @@
+body {
+    background-color: violet;
+}
+
+a {
+    background-color: red;
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(35, 80, 202);
+    font-style: italic;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+   }
+
+form {
+    background-color: teal;
+}
+
+#car {
+    border: 3px yellow;
+}
+
+input[type=text] {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 5px;
+    border-radius: 10px;
+}
+input[type=text]:focus {
+    background-color: orchid;
+}
+
+input[type=date] {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+input[type=date]:focus {
+    background-color: purple;
+}
+
+input[type=email] {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+input[type=email]:focus {
+    background-color: royalblue;
+}
+
+input[type=password] {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+input[type=password]:focus {
+    background-color: saddlebrown;
+}
+
+/* like the less coding way as above instead doing the individual
+.firstname {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.lastname {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.birthdate {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.email {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.password {
+    border: 3px solid turquoise;
+    padding-right: 0px;
+    margin: 10px;
+    border-radius: 10px;
+}
+*/
