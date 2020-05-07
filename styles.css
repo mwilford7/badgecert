@@ -1,0 +1,52 @@
+#cars{
+    text-align: center;
+    color: lightblue;
+    font-size: 40px;
+    border-style: solid;
+    border-left: fit;
+}
+
+body{
+    background-color: maroon;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: whitesmoke;
+    font-weight: bold;
+    font-style: italic;
+}
+
+a {
+    background-color: turquoise;
+    margin-right: 40px;
+}
+
+#Tesla {
+    font-size: 16pt;
+    color: crimson;
+}
+
+#Lamborghini {
+    font-size: 16pt;
+    color: crimson;
+}
+
+ol {
+    background-color: thistle;
+    border-style: ridge;
+    border-color: wheat;
+}
+
+#Ferrari {
+    font-size: 16pt;
+    color: crimson;
+}
+
+#Porsche {
+    font-size: 16pt;
+    color: crimson;
+}
